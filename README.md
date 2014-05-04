@@ -4,9 +4,9 @@
 B3時代のOpenCV OpenGL実験で制作したモノです。
 
 動作時のスクリーンショットは以下のとおりです
-![directory-mode](https://github.com/higitune/3d_explore/blob/master/directory-mode.png)
-![file-mode1](https://github.com/higitune/3d_explore/blob/master/file-mode1.png)
-![file-mode2](https://github.com/higitune/3d_explore/blob/master/file-mode2.png)
+![directory-mode](https://raw.githubusercontent.com/higitune/3d_explore/master/directory-mode.png)
+![file-mode1](https://raw.githubusercontent.com/higitune/3d_explore/master/file-mode1.png)
+![file-mode2](https://raw.githubusercontent.com/higitune/3d_explore/master/file-mode2.png)
 
 以下readme.txtから抜粋
 
